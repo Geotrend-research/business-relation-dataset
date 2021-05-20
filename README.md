@@ -7,4 +7,4 @@ BizRel is a business relation dataset composed of 10k instances in **english** a
 
 A part of this dataset can be used for research purposes. Commercial use is not allowed as well as third party distribution.
 
-To have access to the dataset, please fill this [form](https://docs.google.com/forms/d/1uR4kude36XSRqrEgg_YafD4lsoJ3HjfY3I0JrimLRTQ/prefill). For further information, please refer to amine@geotrend.fr 
+To have access to the dataset, please fill this [form](https://docs.google.com/forms/d/1uR4kude36XSRqrEgg_YafD4lsoJ3HjfY3I0JrimLRTQ). For further information, please refer to hadjer@geotrend.fr 
