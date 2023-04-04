@@ -21,8 +21,7 @@ A part of this dataset can be used for research purposes. Commercial use is not 
     address = "Marseille, France",
     publisher = "European Language Resources Association",
     url = "https://aclanthology.org/2022.lrec-1.394",
-    pages = "3696--3705",
-}
+    pages = "3696--3705",}
 
 
 
